@@ -18,6 +18,8 @@ Install libraries including numpy, pytorch, timm, mamba-ssm, etc. according to `
 ```
    python result_vis.py
 ```
+## Pretrain_YOLOv5_Weight
+-YOLOv5 [[BaiDu Drive]](https://pan.baidu.com/s/17nhTM_khyTDjNkcj-NYEWA) (code:97zk)
 
 ## Cite
 If you find our model/method/dataset useful, please cite our work:
